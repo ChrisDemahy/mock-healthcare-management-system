@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Appointments",
+    "destination": "/doctor/appointments"
+  },
+  {
+    "name": "Patients",
+    "destination": "/doctor/patients"
+  }
+]
